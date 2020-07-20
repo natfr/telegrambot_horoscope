@@ -1,6 +1,6 @@
 #Telegrambot "Horoscope"
 __________
-#### Telegrambot parsing audio from the website in response to the user's request.
+#### Telegrambot parsing a horoscope from the website in response to the user's request.
    The project was created for study purposes.
 __________
 #### Installation
